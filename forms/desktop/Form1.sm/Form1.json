@@ -15,6 +15,11 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        2,
+        1,
+        0
+    ],
     "_skin_": "s8322080f9ad487f85a832e64d3c281d",
     "_title_": null,
     "addWidgetsdone": false,
@@ -43,7 +48,10 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "canvasWidth": 1200,
+    "children": [
+        "Button0h71cd079ed7e41"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -51,9 +59,11 @@
             "name": "Form1Controller"
         }
     },
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
+    "device": "desktopweb",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "Form1",
@@ -84,6 +94,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
