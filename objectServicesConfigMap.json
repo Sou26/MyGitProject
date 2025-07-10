@@ -1,0 +1,16 @@
+{
+    "SKUDemandRequests_DemandRequest": {
+        "servicename": "SKUDemandRequests",
+        "serviceid": "5348e349-8b3e-40be-b63c-17299b9595ff",
+        "type": "objectsvcs",
+        "objectname": "DemandRequest",
+        "objectid": "598064"
+    },
+    "SKUDemandRequests_Productline": {
+        "servicename": "SKUDemandRequests",
+        "serviceid": "5348e349-8b3e-40be-b63c-17299b9595ff",
+        "type": "objectsvcs",
+        "objectname": "Productline",
+        "objectid": "598065"
+    }
+}
