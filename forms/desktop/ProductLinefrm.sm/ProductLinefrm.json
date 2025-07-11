@@ -51,7 +51,8 @@
     "canvasWidth": 1200,
     "children": [
         "FlexContainertable",
-        "FlexChart"
+        "FlexChart",
+        "Button0bb73c1490f154c"
     ],
     "containerweight": 100,
     "controllerInfo": {
